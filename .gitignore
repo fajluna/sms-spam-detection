@@ -11,3 +11,7 @@ Thumbs.db
 models/
 checkpoints/
 
+# Downloaded dataset
+data/SMSSpamCollection
+data/readme
+data/sms.zip
