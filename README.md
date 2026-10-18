@@ -4,10 +4,10 @@ DS483 NLP project for classifying SMS messages as ham or spam.
 
 ## Team
 
-- RazanDuhais
-- fajluna
-- magic20027
-- Mahakhalaf
+- Fajr alhusaynan (`fajluna`)
+- Razan Alharbi (`RazanDuhais`)
+- Noura Alahmad (`magic20027`)
+- Maha khalaf (`maha-alanazi`)
 
 ## Dataset
 
@@ -20,4 +20,3 @@ SMS Spam Collection from the UCI Machine Learning Repository.
 3. Naive Bayes and logistic regression
 4. LSTM classification
 5. Transformer classification
-
